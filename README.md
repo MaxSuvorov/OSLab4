@@ -8,7 +8,7 @@
 ## Требования
 - C++17 компилятор
 - CMake 3.10+
-- Для Windows: MinGW или Visual Studio
+- Для Windows: MinGW
 - Для Linux: g++ и библиотеки разработки
 
 ## Сборка
